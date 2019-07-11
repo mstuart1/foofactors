@@ -8,6 +8,6 @@ Authors@R:
            email = "michelle.stuart@rutgers.edu",
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: This package works with factors to combine them into character strings.
-License: What license it uses
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
