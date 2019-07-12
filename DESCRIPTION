@@ -16,3 +16,5 @@ Suggests:
     testthat (>= 2.1.0)
 Imports: 
     forcats
+URL: https://github.com/mstuart1/foofactors
+BugReports: https://github.com/mstuart1/foofactors/issues
